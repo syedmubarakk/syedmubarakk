@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syed Mubarak</h1>
 <h3 align="center">A passionate Programmer from Chennai</h3>
 
+<!-- Add Kaggle Badge -->
+<p align="center">
+  <a href="https://www.kaggle.com/syedmubarak">
+    <img src="https://img.shields.io/badge/Kaggle-Gold-yellow?style=for-the-badge&logo=kaggle" alt="Kaggle Badge">
+  </a>
+</p>
+
 <p align="center">
   I am a passionate and results-driven Data Scientist with a proven track record of leveraging data-driven insights to drive business solutions. Proficient in machine learning, statistical analysis, and data visualization techniques. Adept at transforming raw data into meaningful and actionable insights to inform strategic decision-making. Skilled in developing and deploying predictive models to optimize processes and enhance business performance 🛠️
 </p>
@@ -31,7 +38,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **Qway Technologies**
 
 - 🌱 I’m currently learning **Computer Vision**
 
